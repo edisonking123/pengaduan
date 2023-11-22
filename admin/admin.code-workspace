@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../conn"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../masyarakat"
+		},
+		{
+			"path": "../petugas"
+		},
+		{
+			"path": "../welcome"
+		}
+	]
+}
